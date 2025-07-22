@@ -1,0 +1,8 @@
+List of all songs
+List of all songs sorted by tempo in increasing order
+Top 5 longest songs
+Songs with danceability, energy, and valence greater than 0.75
+Average energy of all songs
+List of songs by Post Malone
+Average energy of songs by Drake
+List of songs featuring other artists

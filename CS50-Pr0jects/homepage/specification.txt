@@ -1,0 +1,26 @@
+HTML Tags Used:
+
+<html> - Defines the root of an HTML document.
+<head> - Contains metadata and links to CSS and JavaScript files.
+<title> - Sets the title of the web page.
+<body> - Defines the main content of the web page.
+<nav> - Used to create a navigation bar with links to other pages.
+<ul> - Creates an unordered list for navigation items.
+<li> - Defines each item in the navigation list.
+<a> - Used for hyperlinks to navigate between pages.
+<button> - Used for interactive buttons.
+<div> - Used as a container for grouping and styling content.
+
+CSS Properties Used:
+
+color - Specifies the text color (used in headings and links).
+font-size - Adjusts the size of the text (used in headings and buttons).
+background-color - Sets background colors (used for containers and buttons).
+margin - Defines space around elements (used for layout spacing).
+padding - Adds space inside elements (used in the main content container).
+
+
+JavaScript: I used JavaScript to add interactivity, such as dynamically showing/hiding elements or changing styles when users interact with buttons.
+
+Bootstrap: I incorporated Bootstrap to design responsive layouts and stylize navigation bars, buttons, and containers using pre-defined classes. This made the website visually appealing and mobile-friendly.
+
